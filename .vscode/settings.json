@@ -1,0 +1,16 @@
+{
+    "factorio.versions": [
+        {
+            "name": "DEV",
+            "factorioPath": "/home/guevin1/factorio/bin/x64/factorio",
+            "active": true
+        }
+    ],
+    "Lua.workspace.library": [
+        "/home/guevin1/factorio/data"
+    ],
+    "Lua.workspace.userThirdParty": [
+        "/home/guevin1/.config/Code/User/workspaceStorage/d87c725defa79cbcd3ee303434b43330/justarandomgeek.factoriomod-debug/sumneko-3rd"
+    ],
+    "Lua.workspace.checkThirdParty": "ApplyInMemory"
+}
